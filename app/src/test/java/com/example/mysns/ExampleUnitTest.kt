@@ -1,4 +1,4 @@
-package com.example.snplc
+package com.example.mysns
 
 import org.junit.Test
 
